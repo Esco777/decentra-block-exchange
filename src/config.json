@@ -1,0 +1,74 @@
+{
+    "31337": {
+        "exchange": {
+            "address": "0x610178dA211FEF7D417bC0e6FeD39F05609AD788"
+        },
+        "DCB": {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+        },
+        "mETH": {
+            "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+        },
+        "mDAI": {
+            "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+        },
+        "mLINK": {
+            "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+        },
+        "mHEX": {
+            "address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9"
+        },
+        "mGRT": {
+            "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
+        },
+        "mSHIB": {
+            "address": "0x0165878A594ca255338adfa4d48449f69242Eb8F"
+        },
+        "mAPE": {
+            "address": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853"
+        },
+        "mSNX": {
+            "address": "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6"
+        },
+        "mMASK": {
+            "address": "0x8A791620dd6260079BF849Dc5567aDC3F2FdC318"
+        },
+        "explorerURL": "#"
+    },
+    "5": {
+        "exchange": {
+            "address": "0x7648C03789772c626429EaEdBE06AC3E7016dB58"
+        },
+        "DCB": {
+            "address": "0xc2512A1C8D01291113a9F655d33B5c2A082471D4"
+        },
+        "mETH": {
+            "address": "0x91e7776c16ad371E3E43F2a01b054b059f567164"
+        },
+        "mDAI": {
+            "address": "0x6A2634e75aA861820c0f27b2A31b43B2Bf48EC63"
+        },
+        "mLINK": {
+            "address": "0xD3Fcb9cB2C0fBb130622e268707C306B25641559"
+        },
+        "mHEX": {
+            "address": "0x90366c08b5B461dEa21b00423E73A7fc97E2Fe0f"
+        },
+        "mGRT": {
+            "address": "0xF85Bb50C47B5CfB404b4C6812B136d470F69e0b9"
+        },
+        "mSHIB": {
+            "address": "0x3E6A2CbF91b858d949baa6b192Cb80893849FfD7"
+        },
+        "mAPE": {
+            "address": "0xB712aeA37AfCd2e12c90E6bE128FE63f10055570"
+        },
+        "mSNX": {
+            "address": "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6"
+        },
+        "mMASK": {
+            "address": "0x59eb97a30da8E436A981E99E7660eCD6366c09ad"
+        },
+        "explorerURL": "https://goerli.etherscan.io/"
+    }
+}
